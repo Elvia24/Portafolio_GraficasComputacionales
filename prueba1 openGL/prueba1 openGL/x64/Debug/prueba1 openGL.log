@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\FACU\GRAFICAS COMPUTACIONALES\ACT EN CLASE\prueba1 openGL\Source.cpp(161,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  prueba1 openGL.vcxproj -> D:\FACU\GRAFICAS COMPUTACIONALES\ACT EN CLASE\prueba1 openGL\x64\Debug\prueba1 openGL.exe
