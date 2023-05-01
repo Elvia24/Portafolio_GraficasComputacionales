@@ -1,1 +1,1 @@
-el archivo OGL_CAMERA es del cubo rubik creo que hice un mugrero con los colores XDDD
+profe el archivo de la tercer tarea no me dejo subirlo intente hacer la tarea en la la plantilla de el proyecto OGL_TEMPLATE pero hice lo que pude pero no le alle a donde teniamos que moverle  disculpe :(
